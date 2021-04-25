@@ -16,8 +16,8 @@ But we don't want just any old VM on the default network.  This guide will enabl
 Set some env vars.  Alternatively, when you do `gcloud init` you can set defaults and no not need these args.
 
     export PROJECT=<your project id>
-    export REGION=<your desired region, us-west for example>
-    export ZONE=<your desired zone, us-west-1 for example>
+    export REGION=<your desired region, us-west1 for example>
+    export ZONE=<your desired zone, us-west1-a for example>
 
 Enable Compute API
 
